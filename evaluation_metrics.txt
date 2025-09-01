@@ -1,0 +1,1 @@
+Model: Logistic RegressionAccuracy: 0.99Precision (Heart Disease): 0.88Recall (Heart Disease): 0.40F1 Score (Heart Disease): 0.55AUC: 0.9805Business Summary:- Excellent overall ranking ability (AUC ~0.98)- However, recall is too low: many patients with heart disease are missed- Recommendation: lower threshold or use ensemble models to improve recall
