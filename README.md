@@ -48,6 +48,6 @@ It includes **data preprocessing, feature engineering, dimensionality reduction,
 ---
 
 ## Results
-- RandomForest achieved the best performance after tuning  
+- Logistic Regression achieved the best performance after tuning  
 - PCA helped reduce dimensionality without much accuracy loss  
 - KMeans showed weak separation compared to supervised models  
