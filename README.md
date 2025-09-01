@@ -12,7 +12,7 @@ It includes **data preprocessing, feature engineering, dimensionality reduction,
 - **Recall (Heart Disease = 1):** ~0.34–0.40 (many true cases missed)  
 - **F1 Score (Heart Disease = 1):** ~0.51–0.55  
 
-### Business Meaning** 
+### Business Meaning
 - High AUC shows the model can rank patients well.  
 - But low recall means the system **misses many at-risk patients**, which is unacceptable in a clinical setting.  
 - **Recommendation:** Adjust thresholds, use ensemble models (e.g., RandomForest), and rebalance data to improve recall.  
